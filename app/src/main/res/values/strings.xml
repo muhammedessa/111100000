@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="array_technology">
+        <item>Muhammed</item>
+        <item>Essa</item>
+        <item>Hameed</item>
+        <item>Khalid</item>
+        <item>Sami</item>
+        <item>Zainab</item>
+        <item>Aysha</item>
+        <item>Waleed</item>
+        <item>Omer</item>
+        <item>Mustafa</item>
+        <item>Fatima</item>
+        <item>Hassan</item>
+    </string-array>
+
+</resources>
